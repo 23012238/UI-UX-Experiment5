@@ -32,7 +32,7 @@ Justification: Chronic disease management involves nuanced, long-term behavior. 
 3. User Personas
 Persona 1:
 
-Name: Ravi Menon
+Name: madhav
 
 Age: 52
 
@@ -50,7 +50,7 @@ Motivations: Wants to remain healthy for his family, avoid hospitalization
 
 Persona 2:
 
-Name: Deepa Raj
+Name: Deepak
 
 Age: 34
 
@@ -82,7 +82,7 @@ Justification: Surveys help understand user distribution across tech familiarity
 3. User Personas
 Persona 1:
 
-Name: Latha Kumari
+Name: Lahari
 
 Age: 47
 
@@ -100,7 +100,7 @@ Motivations: Financial independence and pride in her craft
 
 Persona 2:
 
-Name: Arvind Patel
+Name: Ganesh
 
 Age: 28
 
