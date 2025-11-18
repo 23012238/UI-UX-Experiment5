@@ -50,6 +50,7 @@ Goals: Stay consistent with workouts, track monthly progress, balance fitness wi
 Behaviors: Active on weekends, struggles during weekdays, uses calendar reminders
 Pain Points: Finds it difficult to maintain motivation, forgets to track progress regularly
 Motivations: Wants to stay fit, set a positive example for her students, reduce stress
+![WhatsApp Image 2025-11-18 at 08 48 55_3eee2f6e](https://github.com/user-attachments/assets/c3e34910-1982-42ac-970b-8623337a1301)
 
 ## Result:
 The presentation of 2 different scenarios is completed and verified.
